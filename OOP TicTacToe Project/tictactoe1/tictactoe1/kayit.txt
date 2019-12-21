@@ -1,0 +1,8 @@
+5
+Ned X True player1 
+CPU O False player2 
+X B B B B 
+B X O B B 
+B B X O B 
+B O B B B 
+B B B B B 
